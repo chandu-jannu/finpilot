@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/__/auth/:path*", "destination": "https://expenses-tracker-11.firebaseapp.com/__/auth/:path*" }
+  ]
+}
