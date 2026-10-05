@@ -1,4 +1,4 @@
-// Your Firebase web-app keys. Safe to publish: access is protected by firestore.rules, not by hiding these.
+
 window.FINPILOT_CONFIG = {
   firebase: {
     apiKey: 'AIzaSyBDFV4DSHrX0VOTHdt4osoczoiTWK2cKew',
